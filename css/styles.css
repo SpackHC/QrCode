@@ -19,7 +19,6 @@
   padding: 0;
 }
 body {
-  border: 1px solid red;
   min-height: 100vh;
   display: flex;
   background-color: rgb(213, 225, 239);
